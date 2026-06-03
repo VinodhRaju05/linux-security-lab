@@ -2,7 +2,7 @@
 
 > **Course:** Intro to Computer Security — Final Project  
 > **Platform:** [TryHackMe – UltraTech](https://tryhackme.com/r/room/ultratech1)  
-> **Difficulty:** Medium | **Challenges Completed:** 4/4 ✅
+> **Difficulty:** Medium | **Challenges Completed:**
 
 ---
 
